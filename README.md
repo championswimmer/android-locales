@@ -1,5 +1,5 @@
 <table border="1">
-<tbody><tr><td>NOTE: I might be wrong on some folder names, but the basic ones should be correct</td>
+<tbody><tr><td>NOTE: These are updated to Android 5.0.1</td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -9,10 +9,10 @@
 <td> </td>
 <td> </td>
 </tr>
-<tr><td>display name (how it&#39;s shown to the user)</td>
-<td>locale</td>
-<td>variant</td>
-<td>folder name</td>
+<tr><td><b>Locale Name</td>
+<td>locale code</td>
+<td>variant (country)</td>
+<td>values folder name</b></td>
 </tr>
 <tr><td>Afrikaans</td>
 <td>af</td>
