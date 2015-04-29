@@ -10,9 +10,9 @@
 <td> </td>
 </tr>
 <tr><td><b>Locale Name</td>
-<td>locale code</td>
-<td>variant (country)</td>
-<td>values folder name</b></td>
+<td><b>locale code</td>
+<td><b>variant (country)</td>
+<td><b>values folder name</td>
 </tr>
 <tr><td>Afrikaans</td>
 <td>af</td>
