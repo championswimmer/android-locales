@@ -1,3 +1,6 @@
+[![Paypal Donate](https://img.shields.io/badge/Donate-Paypal-2244dd.svg)](https://paypal.me/championswimmer)
+
+
 <table border="1">
 <tbody><tr><td>NOTE: These are updated to Android 5.0.1</td>
 <td> </td>
